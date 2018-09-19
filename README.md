@@ -1,2 +1,2 @@
-# pro_ex
+# CppCode
 my ex code
